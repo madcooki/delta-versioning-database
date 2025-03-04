@@ -2,4 +2,4 @@ This project successfully explored the performance and storage efficiency of del
 
 I particularly enjoyed crafting intricate queries to efficiently reconstruct snapshots of data over time.
 
-Key Technologies: Laravel Homestead, MySQL
+Key Technologies: MySQL, Laravel Homestead
